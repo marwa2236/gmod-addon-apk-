@@ -19,18 +19,18 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2552673-1",
+"yandex_inter":"R-M-2552673-3",
+"yandex_native":"R-M-2552673-2",
+"yandex_reward":"R-M-2552673-4",
 
 
 
-"start_vpn":"yes",
-"banner_network_choice":"facebook", 
-"interstisial_network_choice":"facebook", 
-"reward_network_choice":"facebook",
-"native_network_choice":"facebook",
+"start_vpn":"No",
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex",
   
   
 "ovpn_file":[
